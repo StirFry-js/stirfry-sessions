@@ -1,0 +1,33 @@
+{
+  "name": "stirfry-sessions",
+  "version": "1.0.0",
+  "description": "A sesion manager for stirfry",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StirFry-js/stirfry-sessions.git"
+  },
+  "keywords": [
+    "session",
+    "sessions",
+    "stirfry"
+  ],
+  "author": "Alex Waese-Perlman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StirFry-js/stirfry-sessions/issues"
+  },
+  "homepage": "https://github.com/StirFry-js/stirfry-sessions#readme",
+  "dependencies": {
+    "cookies": "^0.7.0",
+    "stirfry": "^1.6.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  }
+}

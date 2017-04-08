@@ -1,2 +1,2 @@
 # How to use
-Just type: `server.use(stirfry_sessions);`
+Just type: `server.process(stirfry_sessions);`
